@@ -54,7 +54,7 @@ color: blue;
    
 }
 .input-email{
- 
+  border: 1px solid #808080;
     border-radius: 4px;
     width: 360px;
     height: 40px;
